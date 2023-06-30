@@ -37,7 +37,7 @@ Before running this bot, make sure you have the following:
 3. Send an image containing the text you want to extract and ask a question related to the text. The bot will perform OCR on the image, extract the text, and generate an answer to your question using the OpenAI GPT-3.5 Turbo model.
 
 4. The bot will reply with the extracted text and the answer to your question.
-## Where Idea Comes From
+## Where Does the Idea Come From?
 
 The idea for this project was inspired by the blog post titled ["ChatGPT Can't Solve Questions: Here's How It Let Me Down"](https://sarperavci.com/chatgpt-cant-solve-questions-heres-how-it-let-me-down) by Sarper Avci. The blog post discusses the limitations of the ChatGPT model in answering questions accurately and how it can sometimes fail to provide correct answers. This project aims to demonstrate the integration of OCR and the GPT-3.5 Turbo model to tackle question-answering tasks on extracted text from images.
 
